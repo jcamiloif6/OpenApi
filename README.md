@@ -9,3 +9,6 @@ The aplication is built with React, Node and hosted by Azure Cloud.
 - Node.js
 - Azure Cloud
 - OpenAI Appi
+
+## URL
+https://polite-meadow-05b81af0f.5.azurestaticapps.net/
