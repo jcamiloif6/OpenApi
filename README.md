@@ -8,3 +8,4 @@ The aplication is built with React, Node and hosted by Azure Cloud.
 - React.js
 - Node.js
 - Azure Cloud
+- OpenAI Appi
